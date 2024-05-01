@@ -1,5 +1,7 @@
 package controller;
 
+import java.util.Scanner;
+
 public class BookingController {
-    //hgfdhd
+    Scanner scanner=new Scanner(System.in);
 }
